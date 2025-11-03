@@ -1,0 +1,5 @@
+/home/diego/Workplace/c#/interfaces/bin/Release/net9.0/publish/interfaces
+/home/diego/Workplace/c#/interfaces/bin/Release/net9.0/publish/interfaces.dll
+/home/diego/Workplace/c#/interfaces/bin/Release/net9.0/publish/interfaces.deps.json
+/home/diego/Workplace/c#/interfaces/bin/Release/net9.0/publish/interfaces.runtimeconfig.json
+/home/diego/Workplace/c#/interfaces/bin/Release/net9.0/publish/interfaces.pdb

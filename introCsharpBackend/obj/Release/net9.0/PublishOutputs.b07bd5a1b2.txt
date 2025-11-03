@@ -1,0 +1,5 @@
+/home/diego/Workplace/c#/introCsharpBackend/bin/Release/net9.0/publish/introCsharpBackend
+/home/diego/Workplace/c#/introCsharpBackend/bin/Release/net9.0/publish/introCsharpBackend.dll
+/home/diego/Workplace/c#/introCsharpBackend/bin/Release/net9.0/publish/introCsharpBackend.deps.json
+/home/diego/Workplace/c#/introCsharpBackend/bin/Release/net9.0/publish/introCsharpBackend.runtimeconfig.json
+/home/diego/Workplace/c#/introCsharpBackend/bin/Release/net9.0/publish/introCsharpBackend.pdb

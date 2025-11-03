@@ -1,0 +1,14 @@
+/home/diego/Workplace/c#/introCsharpBackend/bin/Release/net9.0/introCsharpBackend
+/home/diego/Workplace/c#/introCsharpBackend/bin/Release/net9.0/introCsharpBackend.deps.json
+/home/diego/Workplace/c#/introCsharpBackend/bin/Release/net9.0/introCsharpBackend.runtimeconfig.json
+/home/diego/Workplace/c#/introCsharpBackend/bin/Release/net9.0/introCsharpBackend.dll
+/home/diego/Workplace/c#/introCsharpBackend/bin/Release/net9.0/introCsharpBackend.pdb
+/home/diego/Workplace/c#/introCsharpBackend/obj/Release/net9.0/introCsharpBackend.GeneratedMSBuildEditorConfig.editorconfig
+/home/diego/Workplace/c#/introCsharpBackend/obj/Release/net9.0/introCsharpBackend.AssemblyInfoInputs.cache
+/home/diego/Workplace/c#/introCsharpBackend/obj/Release/net9.0/introCsharpBackend.AssemblyInfo.cs
+/home/diego/Workplace/c#/introCsharpBackend/obj/Release/net9.0/introCsharpBackend.csproj.CoreCompileInputs.cache
+/home/diego/Workplace/c#/introCsharpBackend/obj/Release/net9.0/introCsharpBackend.dll
+/home/diego/Workplace/c#/introCsharpBackend/obj/Release/net9.0/refint/introCsharpBackend.dll
+/home/diego/Workplace/c#/introCsharpBackend/obj/Release/net9.0/introCsharpBackend.pdb
+/home/diego/Workplace/c#/introCsharpBackend/obj/Release/net9.0/introCsharpBackend.genruntimeconfig.cache
+/home/diego/Workplace/c#/introCsharpBackend/obj/Release/net9.0/ref/introCsharpBackend.dll

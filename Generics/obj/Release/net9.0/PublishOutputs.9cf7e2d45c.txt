@@ -1,0 +1,5 @@
+/home/diego/Workplace/c#/Generics/bin/Release/net9.0/publish/Generics
+/home/diego/Workplace/c#/Generics/bin/Release/net9.0/publish/Generics.dll
+/home/diego/Workplace/c#/Generics/bin/Release/net9.0/publish/Generics.deps.json
+/home/diego/Workplace/c#/Generics/bin/Release/net9.0/publish/Generics.runtimeconfig.json
+/home/diego/Workplace/c#/Generics/bin/Release/net9.0/publish/Generics.pdb
