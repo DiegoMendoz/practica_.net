@@ -1,0 +1,15 @@
+/home/diego/Workplace/c#/Serialización_y_deserialización_de_objetos/bin/Debug/net9.0/Serialización_y_deserialización_de_objetos
+/home/diego/Workplace/c#/Serialización_y_deserialización_de_objetos/bin/Debug/net9.0/Serialización_y_deserialización_de_objetos.deps.json
+/home/diego/Workplace/c#/Serialización_y_deserialización_de_objetos/bin/Debug/net9.0/Serialización_y_deserialización_de_objetos.runtimeconfig.json
+/home/diego/Workplace/c#/Serialización_y_deserialización_de_objetos/bin/Debug/net9.0/Serialización_y_deserialización_de_objetos.dll
+/home/diego/Workplace/c#/Serialización_y_deserialización_de_objetos/bin/Debug/net9.0/Serialización_y_deserialización_de_objetos.pdb
+/home/diego/Workplace/c#/Serialización_y_deserialización_de_objetos/obj/Debug/net9.0/Serialización_y_deserialización_de_objetos.GeneratedMSBuildEditorConfig.editorconfig
+/home/diego/Workplace/c#/Serialización_y_deserialización_de_objetos/obj/Debug/net9.0/Serialización_y_deserialización_de_objetos.AssemblyInfoInputs.cache
+/home/diego/Workplace/c#/Serialización_y_deserialización_de_objetos/obj/Debug/net9.0/Serialización_y_deserialización_de_objetos.AssemblyInfo.cs
+/home/diego/Workplace/c#/Serialización_y_deserialización_de_objetos/obj/Debug/net9.0/Serialización_y_deserialización_de_objetos.csproj.CoreCompileInputs.cache
+/home/diego/Workplace/c#/Serialización_y_deserialización_de_objetos/obj/Debug/net9.0/Serialización_y_deserialización_de_objetos.sourcelink.json
+/home/diego/Workplace/c#/Serialización_y_deserialización_de_objetos/obj/Debug/net9.0/Serialización_y_deserialización_de_objetos.dll
+/home/diego/Workplace/c#/Serialización_y_deserialización_de_objetos/obj/Debug/net9.0/refint/Serialización_y_deserialización_de_objetos.dll
+/home/diego/Workplace/c#/Serialización_y_deserialización_de_objetos/obj/Debug/net9.0/Serialización_y_deserialización_de_objetos.pdb
+/home/diego/Workplace/c#/Serialización_y_deserialización_de_objetos/obj/Debug/net9.0/Serialización_y_deserialización_de_objetos.genruntimeconfig.cache
+/home/diego/Workplace/c#/Serialización_y_deserialización_de_objetos/obj/Debug/net9.0/ref/Serialización_y_deserialización_de_objetos.dll
