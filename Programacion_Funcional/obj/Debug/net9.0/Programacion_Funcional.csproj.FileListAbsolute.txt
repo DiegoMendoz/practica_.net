@@ -1,0 +1,15 @@
+/home/diego/Workplace/c#/Programacion_Funcional/bin/Debug/net9.0/Programacion_Funcional
+/home/diego/Workplace/c#/Programacion_Funcional/bin/Debug/net9.0/Programacion_Funcional.deps.json
+/home/diego/Workplace/c#/Programacion_Funcional/bin/Debug/net9.0/Programacion_Funcional.runtimeconfig.json
+/home/diego/Workplace/c#/Programacion_Funcional/bin/Debug/net9.0/Programacion_Funcional.dll
+/home/diego/Workplace/c#/Programacion_Funcional/bin/Debug/net9.0/Programacion_Funcional.pdb
+/home/diego/Workplace/c#/Programacion_Funcional/obj/Debug/net9.0/Programacion_Funcional.GeneratedMSBuildEditorConfig.editorconfig
+/home/diego/Workplace/c#/Programacion_Funcional/obj/Debug/net9.0/Programacion_Funcional.AssemblyInfoInputs.cache
+/home/diego/Workplace/c#/Programacion_Funcional/obj/Debug/net9.0/Programacion_Funcional.AssemblyInfo.cs
+/home/diego/Workplace/c#/Programacion_Funcional/obj/Debug/net9.0/Programacion_Funcional.csproj.CoreCompileInputs.cache
+/home/diego/Workplace/c#/Programacion_Funcional/obj/Debug/net9.0/Programacion_Funcional.sourcelink.json
+/home/diego/Workplace/c#/Programacion_Funcional/obj/Debug/net9.0/Programacion_Funcional.dll
+/home/diego/Workplace/c#/Programacion_Funcional/obj/Debug/net9.0/refint/Programacion_Funcional.dll
+/home/diego/Workplace/c#/Programacion_Funcional/obj/Debug/net9.0/Programacion_Funcional.pdb
+/home/diego/Workplace/c#/Programacion_Funcional/obj/Debug/net9.0/Programacion_Funcional.genruntimeconfig.cache
+/home/diego/Workplace/c#/Programacion_Funcional/obj/Debug/net9.0/ref/Programacion_Funcional.dll
